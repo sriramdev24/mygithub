@@ -1,1 +1,2 @@
-print("This is Login Controller file")
+def login():
+    return "Login page"
